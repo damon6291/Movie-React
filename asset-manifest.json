@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Movie-React/static/css/main.271f28aa.chunk.css",
-    "main.js": "/Movie-React/static/js/main.5028dc47.chunk.js",
-    "main.js.map": "/Movie-React/static/js/main.5028dc47.chunk.js.map",
+    "main.js": "/Movie-React/static/js/main.115de469.chunk.js",
+    "main.js.map": "/Movie-React/static/js/main.115de469.chunk.js.map",
     "runtime-main.js": "/Movie-React/static/js/runtime-main.ae7d4f78.js",
     "runtime-main.js.map": "/Movie-React/static/js/runtime-main.ae7d4f78.js.map",
     "static/js/2.d05f745b.chunk.js": "/Movie-React/static/js/2.d05f745b.chunk.js",
     "static/js/2.d05f745b.chunk.js.map": "/Movie-React/static/js/2.d05f745b.chunk.js.map",
     "index.html": "/Movie-React/index.html",
-    "precache-manifest.5fdfbfeebbd121cc26e91e3e1dc65d27.js": "/Movie-React/precache-manifest.5fdfbfeebbd121cc26e91e3e1dc65d27.js",
+    "precache-manifest.98a0e0299d7ad1b0fe5e0e09d6e982c2.js": "/Movie-React/precache-manifest.98a0e0299d7ad1b0fe5e0e09d6e982c2.js",
     "service-worker.js": "/Movie-React/service-worker.js",
     "static/css/main.271f28aa.chunk.css.map": "/Movie-React/static/css/main.271f28aa.chunk.css.map",
     "static/js/2.d05f745b.chunk.js.LICENSE.txt": "/Movie-React/static/js/2.d05f745b.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ae7d4f78.js",
     "static/js/2.d05f745b.chunk.js",
     "static/css/main.271f28aa.chunk.css",
-    "static/js/main.5028dc47.chunk.js"
+    "static/js/main.115de469.chunk.js"
   ]
 }
